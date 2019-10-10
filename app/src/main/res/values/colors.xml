@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#49548D</color>
+    <color name="colorPrimaryDark">#2B2C5D</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="actionMenuTextAppearance">#FFFFFF</color>
+    <color name="foodName">#FFFFFF</color>
+    <color name="foodDetail">#DDDBDB</color>
+    <color name="bgItemFood">#F249548D</color>
+    <color name="bgMain">#2B2C5D</color>
+    <color name="profileName">#FFFFFF</color>
+    <color name="profileEmail">#DDDBDB</color>
+    <color name="btnDetail">#009688</color>
+</resources>

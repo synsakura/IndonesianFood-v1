@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Makanan Indonesia</string>
+    <string name="detail">Detail</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="about_page">About</string>
+    <string name="detail_page">Detail</string>
+    <string name="profile_name">Wahyu Hidayanto</string>
+    <string name="profile_email">Wahyushania48@gmail.com</string>
+    <string name="about">About</string>
+    <string name="lihat_selengkapnya">Lihat Selengkapnya...</string>
+    <string name="description">Description</string>
+</resources>
